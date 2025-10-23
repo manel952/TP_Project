@@ -1,0 +1,3 @@
+Nom : Zinai
+Rôle : Développeur
+Description : Je participe au projet GitHub TP2.
